@@ -1,0 +1,2 @@
+ python manage.py startapp employee ---- to create new app
+ python manage.py runserver              ----- to run server
